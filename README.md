@@ -82,4 +82,4 @@ CMD ["/usr/bin/python3" , "app.py"]   ------->       ### Default command to be e
  
  ## Result
  
- A web application is created with python-flask.
+ A web application is created with python-flask in docker.
